@@ -1,2 +1,2 @@
-trololo bum  cyk
+console.log("trololo bum cyk")
 
